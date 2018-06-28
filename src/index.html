@@ -1,26 +1,31 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>H11-Memory</title>
-  <base href="./">
+    <meta charset="utf-8">
+    <title>TB.Traineeskilltree</title>
+    <base href="./" />
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' gap: ws: https://ssl.gstatic.com;style-src 'self' 'unsafe-inline' data: blob:;media-src *;img-src 'self' data: content:;script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
-  <script src="cordova.js"></script>
+    <script src="cordova.js"></script>
 
-  <!-- Polyfills -->
-  <script src="https://unpkg.com/core-js/client/shim.min.js"></script>
+    <!-- Polyfills -->
+    <script src="https://unpkg.com/core-js/client/shim.min.js"></script>
 
-  <!-- Update these package versions as needed -->
-  <script src="https://unpkg.com/zone.js"></script>
-  <script src="https://unpkg.com/systemjs"></script>
+    <!-- Update these package versions as needed -->
+    <script src="https://unpkg.com/zone.js"></script>
+    <script src="https://unpkg.com/systemjs"></script>
 
-  <!-- This SystemJS configuration loads umd packages from the web -->
-  <script src="systemjs.config.server.js"></script>
+    <!-- This SystemJS configuration loads umd packages from the web -->
+    <script src="systemjs.config.server.js"></script>
+
+    <!-- Phonegap debugger -->
+    <!--<script src="http://10.170.115.220:8080/target/target-script-min.js#anonymous"></script>-->
+    <script src="http://192.168.178.45:8080/target/target-script-min.js#anonymous"></script>
 </head>
-<body>
-  <app-root></app-root>
+<body class="blue-grey lighten-4">
+    <app-root></app-root>
 </body>
 </html>

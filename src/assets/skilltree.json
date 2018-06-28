@@ -1,0 +1,574 @@
+[
+    {
+        "title": "roadmap",
+        "logo": "assets/imgs/roadmap.png",
+        "done": false,
+        "detail": [
+            "This skilltree should also be part of your :0. Create :1."
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Trainee+roadmap')\">roadmap</a>",
+            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Trainee+roadmap')\">roadmap</a>"
+        ]
+    },
+    {
+        "title": "Pluralsight",
+        "logo": "assets/imgs/pluralsight.png",
+        "done": false,
+        "detail": [
+            "Create a Pluralsight account by following the instruction on :0."
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Training+tools')\">Training tools</a>"
+        ]
+    },
+    {
+        "title": "Beginner's Guide<br /> Read the document.",
+        "logo": "assets/imgs/beginnersguide.jpg",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "assets/beginnersguide.pdf"
+        ]
+    },
+    {
+        "title": "HTML + CSS",
+        "logo": "assets/imgs/htmlcss.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "<li>QA - Selenium</li>",
+            "<ul class=\"browser-default\">",
+            "<li>:2</li>",
+            "<li>:3</li>",
+            "<li>Download for Mozilla: :4</li>",
+            "<li>Save the download, go to Add-ons, setting-wheel, Add-on aus Datei installieren.</li>",
+            "<li>Read the docs</li>",
+            "<li>Build a test with :5</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Build a test for the >google login</li>",
+            "<li>Successful login</li>",
+            "<li>Failed login</li>",
+            "<li>Build a form and create tests for it</li>",
+            "<li>Test it like you wish</li>",
+            "</ul>",
+            "</ul>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skill/html5')\">HTML</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skill/css')\">CSS</a>",
+            "<a href=\"javascript:window.open('http://www.seleniumhq.org/\">http://www.seleniumhq.org/</a>",
+            "<a href=\"javascript:window.open('http://www.seleniumhq.org/download/\">http://www.seleniumhq.org/download/</a>",
+            "<a href=\"javascript:window.open('https://addons.cdn.mozilla.net/user-media/addons/_attachments/2079/selenium_ide-2.9.1-fx.xpi?filehash=sha256%253A84452d43a6bcdd3892be2fe0b63b21fc245f93effe250c2ec538975640fa5997\">Download</a>",
+            "<a href=\"javascript:window.open('http://www.seleniumhq.org/projects/ide/\">http://www.seleniumhq.org/projects/ide/</a>"
+        ]
+    },
+    {
+        "title": "JavaScript",
+        "logo": "assets/imgs/js.png",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "https://app.pluralsight.com/paths/skill/javascript"
+        ]
+    },
+    {
+        "title": "jQuery<br />(beginner + intermediate)",
+        "logo": "assets/imgs/jquery.png",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "https://app.pluralsight.com/paths/skills/jquery"
+        ]
+    },
+    {
+        "title": "Chrome DevTools",
+        "logo": "assets/imgs/chrome.png",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "https://app.pluralsight.com/library/courses/chrome-developer-tools/table-of-contents"
+        ]
+    },
+    {
+        "title": "Linux tutorials",
+        "logo": "assets/imgs/linux.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('http://ryanstutorials.net/linuxtutorial/')\">Basics</a>",
+            "<a href=\"javascript:window.open('http://linuxcommand.org/lc3_writing_shell_scripts.php')\">Writing shell scripts</a>"
+        ]
+    },
+    {
+        "title": "git",
+        "logo": "assets/imgs/git.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "<li>:2</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-git-real/table-of-contents')\">Git Real</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-git-real-2/table-of-contents')\">Git Real 2</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-mastering-github/table-of-contents')\">Mastering GitHub</a>"
+        ]
+    },
+    {
+        "title": "Other stuff",
+        "logo": "assets/imgs/regexxmlxsd.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>The course :0</li>",
+            "<li>The course :1</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Tutorial</li>",
+            "<li>Quiz</li>",
+            "<li>The course :2</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Excersise</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Write an XSD to the following XML: :3</li>",
+            "<li>Store the XSD, you will need it some weeks later</li>",
+            "</ul>",
+            "</ul>",
+            "</ul>",
+            "<li>Optional: :4</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-breaking-the-ice-with-regular-expressions/table-of-contents')\">Regular Expressions</a>",
+            "<a href=\"javascript:window.open('https://www.w3schools.com/xml/default.asp')\">XML</a>",
+            "<a href=\"javascript:window.open('https://www.w3schools.com/xml/schema_intro.asp')\">XSD</a>",
+            "<a href=\"javascript:window.open('http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')\">ECB Europa</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/xml-fund/table-of-contents')\">XML Fundamentals</a>"
+        ]
+    },
+    {
+        "title": "Projects",
+        "logo": "assets/imgs/project.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>Build a Portfolio using Bootstrap</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Who I am</li>",
+            "<li>What I do</li>",
+            "<li>What I've done</li>",
+            "</ul>",
+            "<li>Build a Code Breaker game with JavaScript</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Objective</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Guess the randomly generated 4 digit code.</li>",
+            "</ul>",
+            "<li>Rules</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Each guess must consist of 4 numeric characters.</li>",
+            "<li>Numbers may be used more than once!</li>",
+            "<li>You win only if your guess is an exact match.</li>",
+            "<li>You lose if you fail to guess the code under 10 guesses.</li>",
+            "<li>Indicate a number that is in the correct position.</li>",
+            "<li>Indicate a number that is part of the code, but not in the right position.</li>",
+            "<li>Don't consider how many times a number exists in the code.</li>",
+            "<li>Indicate a number that is not part of the code.</li>",
+            "</ul>",
+            "</ul>",
+            "<li>:0 - maximum 2 weeks, then go on with the next section</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://checkio.org/')\">checkio - JavaScript</a>"
+        ]
+    },
+    {
+        "title": "PHP",
+        "logo": "assets/imgs/php.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "<li>:2</li>",
+            "<li>:3</li>",
+            "<li>QA</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Behat</li>",
+            "<ul class=\"browser-default\">",
+            "<li>:4</li>",
+            "<li>:5</li>",
+            "<li>Create a script that can handle two parameters</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Param1: string</li>",
+            "<li>Param2: url</li>",
+            "<li>The script writes the content of param1 to a file</li>",
+            "<li>The script writes the content of the output from the url of param2 to a file</li>",
+            "<li>The script writes one file for each param Filename syntax:{param_name}_{Ymd_His}.txt</li>",
+            "<li>Test script call with param1</li>",
+            "<li>Test script call with param2</li>",
+            "<li>Test script call with param1 + param2</li>",
+            "<li>Test script call with no param</li>",
+            "<li>Check the filepath</li>",
+            "<li>Check the content of the file</li>",
+            "</ul>",
+            "<li>Create a script to read an XML and write a CSV</li>",
+            "<ul class=\"browser-default\">",
+            "<li>The script should read the following :6</li>",
+            "<li>Each script call should fetch XML from start</li>",
+            "<li>The called XML should be valid to the schema you created in the learning section XML and XSD</li>",
+            "<li>Filename syntax for the created CSV file: {XML/gesmes:Envelope/Cube/Cube[@time]}_currencies.csv</li>",
+            "<li>Column separator (delimiter): TAB</li>",
+            "<li>Float decimal point: Komma</li>",
+            "<li>Columns</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Name: Währung, content: XML/gesmes:Envelope/Cube/Cube/Cube[@currency]</li>",
+            "<li>Name: Wechselkurs, content:XML/gesmes:Envelope/Cube/Cube/Cube[@rate]</li>",
+            "</ul>",
+            "<li>Hint: the Behat has to mock the call to get the XML. The return can be defined inside a Behat step!?</li>",
+            "<li>Test successful script call</li>",
+            "<li>Test failed script call, maybe because the XML call does not return anything</li>",
+            "<li>Check the created CSV filename</li>",
+            "<li>Check the content of the created CSV file</li>",
+            "</ul>",
+            "</ul>",
+            "<li>:7</li>",
+            "<ul class=\"browser-default\">",
+            "<li>:8</li>",
+            "<li>Calculator</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Check the calculation functions</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Positive numbers</li>",
+            "<li>Negative numbers</li>",
+            "<li>Division with 0</li>",
+            "</ul>",
+            "<li>Check the history</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Less than 10 history entries</li>",
+            "<li>More than 10 history entries</li>",
+            "</ul>",
+            "<li>Check the calculation functions</li>",
+            "<ul class=\"browser-default\">",
+            "<li>+</li>",
+            "<li>-</li>",
+            "<li>*</li>",
+            "<li>/</li>",
+            "<li>History of the last 10 calculations</li>",
+            "</ul>",
+            "</ul>",
+            "</ul>",
+            "</ul>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-php/table-of-contents')\">Try PHP</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-close-encounters-with-php/table-of-contents')\">Close Encounters with PHP</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-laravel/table-of-contents')\">Try Laravel</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-from-form-to-table-with-laravel/table-of-contents')\">From Form to Table with Laravel</a>",
+            "<a href=\"javascript:window.open('http://behat.org/en/latest/quick_start.html#installation')\">Setting Up Behat</a>",
+            "<a href=\"javascript:window.open('http://behat.org/en/latest/guides.html')\">Behat guides</a>",
+            "<a href=\"javascript:window.open('http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')\">XML</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/automated-tests-phpunit/table-of-contents')\">PHPUnit</a>",
+            "<a href=\"javascript:window.open('https://phpunit.de/manual/6.0/en/installation.html')\">Installation</a>"
+        ]
+    },
+    {
+        "title": "Database",
+        "logo": "assets/imgs/mysqlmongodb.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "<li>:2</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-sql/table-of-contents')\">Try SQL</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-the-sequel-to-sql/table-of-contents')\">The Sequel to SQL</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-the-magical-marvels-of-mongodb/table-of-contents')\">The Magical Marvels of MongoDB</a>"
+        ]
+    },
+    {
+        "title": "Project",
+        "logo": "assets/imgs/project.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>Duration: 1-2 work weeks</li>",
+            "<li>Individual project or :0 to check your current skills</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/TradeByte+Developer+Challenge')\">Tradebyte Developer Challenge</a>"
+        ]
+    },
+    {
+        "title": "C++ (beginner + intermediate)(optional, because school)",
+        "logo": "assets/imgs/c++.png",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "https://app.pluralsight.com/paths/skills/c-plus-plus"
+        ]
+    },
+    {
+        "title": "JAVA (beginner + intermediate)",
+        "logo": "assets/imgs/java.png",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "https://app.pluralsight.com/paths/skills/java"
+        ]
+    },
+    {
+        "title": "Android",
+        "logo": "assets/imgs/android.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-android/table-of-contents')\">Try Android</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-super-sweet-android-time/table-of-contents')\">Super Sweet Android Time</a>"
+        ]
+    },
+    {
+        "title": "Python",
+        "logo": "assets/imgs/python.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "<li>:2 - maximum 2 weeks, then go on with the next point</li>",
+            "<li>QA</li>",
+            "<ul class=\"browser-default\">",
+            "<li>:3 - Tools</li>",
+            "<ul class=\"browser-default\">",
+            "<li>:4</li>",
+            "<li>:5</li>",
+            "<li>:6</li>",
+            "<li>:7</li>",
+            "</ul>",
+            "</ul>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/python')\">Courses</a>",
+            "<a href=\"javascript:window.open('https://www.pylint.org/')\">Pylint</a>",
+            "<a href=\"javascript:window.open('https://checkio.org/')\">checkio - Python</a>",
+            "<a href=\"javascript:window.open('https://docs.python.org/3.7/library/unittest.html')\">Unittests</a>",
+            "<a href=\"javascript:window.open('https://docs.python.org/3.7/library/unittest.mock-examples.html')\">Mocks</a>",
+            "<a href=\"javascript:window.open('https://nose.readthedocs.io/en/latest/')\">Nose</a>",
+            "<a href=\"javascript:window.open('https://tox.readthedocs.io/en/latest/')\">Tox</a>",
+            "<a href=\"javascript:window.open('https://factoryboy.readthedocs.io/en/latest/')\">FactoryBoy (Sample Data generator)</a>"
+        ]
+    },
+    {
+        "title": "Ruby",
+        "logo": "assets/imgs/ruby.png",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "https://app.pluralsight.com/library/courses/ruby-fundamentals/table-of-contents"
+        ]
+    },
+    {
+        "title": "Go",
+        "logo": "assets/imgs/golang.png",
+        "done": false,
+        "detail": [
+        ],
+        "detail_args": [
+            "https://app.pluralsight.com/library/courses/code-school-on-track-with-golang/table-of-contents"
+        ]
+    },
+    {
+        "title": "more JavaScript",
+        "logo": "assets/imgs/angularreact.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0 (beginner + intermediate)</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Participate in additional courses.</li>",
+            "<li>Do the daily challenge.</li>",
+            "<li>Challenge other developers in the quiz.</li>",
+            "<li>Discuss code with others.</li>",
+            "</ul>",
+            "<li>:1 (beginner + intermediate)</li>",
+            "<li>:2</li>",
+            "<li>:3 (beginner + intermediate)</li>",
+            "<li>QA</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Tools</li>",
+            "<ul class=\"browser-default\">",
+            "<li>:4 (:5)</li>",
+            "<li>:6 (:7)</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Setting up Mocha using the documentation</li>",
+            "<li>Mocha provides a testing framework</li>",
+            "</ul>",
+            "<li>:8</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Setting up Chai using the documentation</li>",
+            "<li>Provides assertions</li>",
+            "</ul>",
+            "</ul>",
+            "<li>Calculator</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Check the calculation functions</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Positive numbers</li>",
+            "<li>Negative numbers</li>",
+            "<li>Division with 0</li>",
+            "</ul>",
+            "<li>Check the history</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Less than 10 history entries</li>",
+            "<li>More than 10 history entries</li>",
+            "</ul>",
+            "<li>Check the calculation functions</li>",
+            "<ul class=\"browser-default\">",
+            "<li>+</li>",
+            "<li>-</li>",
+            "<li>*</li>",
+            "<li>/</li>",
+            "<li>History of the last 10 calculations</li>",
+            "</ul>",
+            "</ul>",
+            "</ul>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/angular')\">Angular</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/react')\">React</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/emberjs-fundamentals/table-of-contents')\">Ember.js</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/node-js')\">Node.js</a>",
+            "<a href=\"javascript:window.open('http://eslint.org/docs/user-guide/getting-started')\">ESLint</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/eslint-better-code-quality/table-of-contents')\">course</a>",
+            "<a href=\"javascript:window.open('https://mochajs.org/')\">MochaJS</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/mocha-javascript-testing-nodejs/table-of-contents')\">course</a>",
+            "<a href=\"javascript:window.open('http://chaijs.com/')\">ChaiJS</a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>",
+            "<a href=\"javascript:window.open('')\"></a>"
+        ]
+    },
+    {
+        "title": "Elixir",
+        "logo": "assets/imgs/elixir.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-elixir/table-of-contents')\">Try Elixir</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-mixing-it-up-with-elixir/table-of-contents')\">Mixing It up with Elixir</a>"
+        ]
+    },
+    {
+        "title": "Django",
+        "logo": "assets/imgs/python.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-django/table-of-contents')\">Try Django</a>",
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-digging-into-django/table-of-contents')\">Digging into Django</a>"
+        ]
+    },
+    {
+        "title": "Cordova",
+        "logo": "assets/imgs/cordova.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://cordova.apache.org/#getstarted')\">Documentation</a>",
+            "<a href=\"javascript:window.open('https://www.tutorialspoint.com/cordova/index.htm')\">Tutorial</a>"
+        ]
+    },
+    {
+        "title": "Docker (beginner + intermediate)",
+        "logo": "assets/imgs/docker.png",
+        "done": false,
+        "detail": [
+            "<ul class=\"browser-default\">",
+            "<li>:0</li>",
+            "<li>:1</li>",
+            "<li>QA</li>",
+            "<ul class=\"browser-default\">",
+            "<li>Setting up a web server with an existing container from :2</li>",
+            "<li>Setting up a database server with an existing container from :3</li>",
+            "<li>Handle this :4 with the learned technologies</li>",
+            "</ul>",
+            "</ul>"
+        ],
+        "detail_args": [
+            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/docker')\">Courses</a>",
+            "<a href=\"javascript:window.open('https://docs.docker.com/')\">Documentation</a>",
+            "<a href=\"javascript:window.open('https://hub.docker.com/explore/')\">docker hub</a>",
+            "<a href=\"javascript:window.open('https://hub.docker.com/explore/')\">docker hub</a>",
+            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Testaufgabe')\">task</a>"
+        ]
+    }
+]

@@ -1,22 +1,19 @@
-import { Component, OnInit } from '@angular/core';
-declare var device;
+import {Component} from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.css']
 })
 
-export class AppComponent implements OnInit {
-  title = 'app';
+export class AppComponent {
+    protected _title = 'skilltree';
 
-  ngOnInit() {
-    document.addEventListener(
-      'deviceready',
-      function() {
-        alert(device.platform);
-      },
-      false
-    );
-  }
+    set title(title: string) {
+        this._title = title;
+    }
+
+    get title(): string {
+        return this._title;
+    }
 }

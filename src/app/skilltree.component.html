@@ -1,0 +1,117 @@
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper">
+            <div class="row blue-grey darken-4 blue-grey-text text-lighten-4">
+                <div class="col s6 l10">
+                    <div class="progress">
+                        <div class="determinate"
+                             [ngStyle]="{'width':getPercentageDone()}"></div>
+                    </div>
+                </div>
+
+                <div class="col s6 l2">
+                    <ul id="nav-mobile" class="right ">
+                        <li>
+                            <a class="blue-grey-text text-lighten-4"
+                               (click)="resetSkilltreeDone()">
+                                UNDO
+                            </a>
+                        </li>
+
+                        <li>
+                            <a class="blue-grey-text text-lighten-4"
+                               (click)="resetSkilltree()">
+                                RESET
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+
+<main>
+    <div class="row">
+        <div class="col s12 m6 l3 skill"
+             *ngFor="let skill of skilltree; let i = index"
+             [attr.data-index]="i">
+            <div class="card small">
+                <div class="card-image">
+                    <img class="activator"
+                         [alt]="skill.title"
+                         [title]="skill.title"
+                         src="{{skill.logo}}"
+                         *ngIf="skill.detail.length > 0" />
+
+                    <a href="{{skill.detail_args[0]}}"
+                       *ngIf="skill.detail.length == 0">
+                        <img class="activator"
+                             [alt]="skill.title"
+                             [title]="skill.title"
+                             src="{{skill.logo}}" />
+                    </a>
+                </div>
+
+                <div class="card-content center">
+                    <div class="row">
+                        <div class="col s1 card-title" style="padding-top: 5px;">
+                            <label>
+                                <input type="checkbox"
+                                       checked="checked"
+                                       [checked]="skill.done"
+                                       (click)="toggleSkillDone(skill)"
+                                       class="filled-in right" />
+
+                                <span></span>
+                            </label>
+                        </div>
+
+                        <div class="col s10">
+                            <span class="card-title activator"
+                                  [title]="skill.title"
+                                  [class.done]="skill.done"
+                                  [class.open]="!skill.done"
+                                  *ngIf="skill.detail.length > 0"
+                                  [innerHTML]="(i + 1) + '. ' + skill.title">
+                            </span>
+
+                            <span class="card-title activator"
+                                  [title]="skill.title"
+                                  [class.done]="skill.done"
+                                  [class.open]="!skill.done"
+                                  *ngIf="skill.detail.length == 0">
+                                <a href="{{skill.detail_args[0]}}"
+                                   class="blue-grey-text text-darken-4"
+                                   [innerHTML]="(i + 1) + '. ' + skill.title">
+                                </a>
+                            </span>
+                        </div>
+
+                        <div class="col s1">
+                            <span class="card-title activator">
+                                <i class="material-icons" *ngIf="skill.detail.length > 0">more_vert</i>
+
+                                <a href="{{skill.detail_args[0]}}"
+                                   *ngIf="skill.detail.length == 0"
+                                   class="blue-grey-text text-darken-4">
+                                    <i class="material-icons">link</i>
+                                </a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-reveal left" *ngIf="skill.detail.length > 0">
+                    <span class="card-title blue-grey-text text-darken-4 center">
+                        {{skill.title}}
+                        <i class="material-icons right">close</i>
+                    </span>
+
+                    <span [innerHTML]="getSkillDetail(skill) | safe: 'html'">
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

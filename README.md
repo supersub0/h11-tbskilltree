@@ -1,6 +1,6 @@
-# PhoneGap/Cordova/Angular Template
+# Skilltree app for TB DEV Trainees
 
-A PhoneGap/Cordovq/Angular template
+A PhoneGap/Cordova/Angular app
 
 ## Usage
 

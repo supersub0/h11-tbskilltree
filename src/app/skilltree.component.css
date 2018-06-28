@@ -1,0 +1,39 @@
+.done {
+    color: #cfd8dc;
+    text-decoration-line: line-through;
+}
+
+.open {
+    color: #546e7a;
+}
+
+.navbar-fixed {
+    margin-bottom: 10px;
+}
+
+.navbar-fixed .progress {
+    height: 40px;
+    background-color: #cfd8dc;
+}
+
+.navbar-fixed .progress .determinate {
+    background-color: #546e7a;
+}
+
+.skill {
+    margin-left: 10px;
+}
+
+[type="checkbox"]:checked+span:not(.lever):before {
+    border-right: 2px solid #cfd8dc;
+    border-bottom: 2px solid #cfd8dc;
+}
+
+[type="checkbox"].filled-in:checked+span:not(.lever):after {
+    border: 2px solid #546e7a;
+    background-color: #546e7a;
+}
+
+a, .card-image {
+    cursor: pointer!important;
+}
