@@ -1,11 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>helloworld</name>
-    <description>
-        Hello World sample application that responds to the deviceready event.
-    </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+<widget id="com.h11.tbtraineeskilltree" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>TB DEV Skilltree</name>
+    <author email="rg@halio11.info" href="http://halio11.info">
+        h11
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
