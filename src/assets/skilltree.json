@@ -7,8 +7,8 @@
             "This skilltree should also be part of your :0. Create :1."
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Trainee+roadmap')\">roadmap</a>",
-            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Trainee+roadmap')\">roadmap</a>"
+            "<a href=\"http://confluence.tradebyte-office.de/display/DEV/Trainee+roadmap\">roadmap</a>",
+            "<a href=\"http://confluence.tradebyte-office.de/display/DEV/Trainee+roadmap\">roadmap</a>"
         ]
     },
     {
@@ -19,7 +19,7 @@
             "Create a Pluralsight account by following the instruction on :0."
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Training+tools')\">Training tools</a>"
+            "<a href=\"http://confluence.tradebyte-office.de/display/DEV/Training+tools\">Training tools</a>"
         ]
     },
     {
@@ -29,7 +29,7 @@
         "detail": [
         ],
         "detail_args": [
-            "assets/beginnersguide.pdf"
+            "http://confluence.tradebyte-office.de/pages/viewpage.action?pageId=38440872"
         ]
     },
     {
@@ -59,12 +59,12 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skill/html5')\">HTML</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skill/css')\">CSS</a>",
-            "<a href=\"javascript:window.open('http://www.seleniumhq.org/\">http://www.seleniumhq.org/</a>",
-            "<a href=\"javascript:window.open('http://www.seleniumhq.org/download/\">http://www.seleniumhq.org/download/</a>",
-            "<a href=\"javascript:window.open('https://addons.cdn.mozilla.net/user-media/addons/_attachments/2079/selenium_ide-2.9.1-fx.xpi?filehash=sha256%253A84452d43a6bcdd3892be2fe0b63b21fc245f93effe250c2ec538975640fa5997\">Download</a>",
-            "<a href=\"javascript:window.open('http://www.seleniumhq.org/projects/ide/\">http://www.seleniumhq.org/projects/ide/</a>"
+            "<a href=\"https://app.pluralsight.com/paths/skill/html5\">HTML</a>",
+            "<a href=\"https://app.pluralsight.com/paths/skill/css\">CSS</a>",
+            "<a href=\"http://www.seleniumhq.org/\">http://www.seleniumhq.org/</a>",
+            "<a href=\"http://www.seleniumhq.org/download/\">http://www.seleniumhq.org/download/</a>",
+            "<a href=\"https://addons.cdn.mozilla.net/user-media/addons/_attachments/2079/selenium_ide-2.9.1-fx.xpi?filehash=sha256%253A84452d43a6bcdd3892be2fe0b63b21fc245f93effe250c2ec538975640fa5997\">Download</a>",
+            "<a href=\"http://www.seleniumhq.org/projects/ide/\">http://www.seleniumhq.org/projects/ide/</a>"
         ]
     },
     {
@@ -108,8 +108,8 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('http://ryanstutorials.net/linuxtutorial/')\">Basics</a>",
-            "<a href=\"javascript:window.open('http://linuxcommand.org/lc3_writing_shell_scripts.php')\">Writing shell scripts</a>"
+            "<a href=\"http://ryanstutorials.net/linuxtutorial/\">Basics</a>",
+            "<a href=\"http://linuxcommand.org/lc3_writing_shell_scripts.php\">Writing shell scripts</a>"
         ]
     },
     {
@@ -124,9 +124,9 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-git-real/table-of-contents')\">Git Real</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-git-real-2/table-of-contents')\">Git Real 2</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-mastering-github/table-of-contents')\">Mastering GitHub</a>"
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-git-real/table-of-contents\">Git Real</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-git-real-2/table-of-contents\">Git Real 2</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-mastering-github/table-of-contents\">Mastering GitHub</a>"
         ]
     },
     {
@@ -153,11 +153,11 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-breaking-the-ice-with-regular-expressions/table-of-contents')\">Regular Expressions</a>",
-            "<a href=\"javascript:window.open('https://www.w3schools.com/xml/default.asp')\">XML</a>",
-            "<a href=\"javascript:window.open('https://www.w3schools.com/xml/schema_intro.asp')\">XSD</a>",
-            "<a href=\"javascript:window.open('http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')\">ECB Europa</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/xml-fund/table-of-contents')\">XML Fundamentals</a>"
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-breaking-the-ice-with-regular-expressions/table-of-contents\">Regular Expressions</a>",
+            "<a href=\"https://www.w3schools.com/xml/default.asp\">XML</a>",
+            "<a href=\"https://www.w3schools.com/xml/schema_intro.asp\">XSD</a>",
+            "<a href=\"http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml\">ECB Europa</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/xml-fund/table-of-contents\">XML Fundamentals</a>"
         ]
     },
     {
@@ -194,7 +194,7 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://checkio.org/')\">checkio - JavaScript</a>"
+            "<a href=\"https://checkio.org/\">checkio - JavaScript</a>"
         ]
     },
     {
@@ -277,15 +277,15 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-php/table-of-contents')\">Try PHP</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-close-encounters-with-php/table-of-contents')\">Close Encounters with PHP</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-laravel/table-of-contents')\">Try Laravel</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-from-form-to-table-with-laravel/table-of-contents')\">From Form to Table with Laravel</a>",
-            "<a href=\"javascript:window.open('http://behat.org/en/latest/quick_start.html#installation')\">Setting Up Behat</a>",
-            "<a href=\"javascript:window.open('http://behat.org/en/latest/guides.html')\">Behat guides</a>",
-            "<a href=\"javascript:window.open('http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml')\">XML</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/automated-tests-phpunit/table-of-contents')\">PHPUnit</a>",
-            "<a href=\"javascript:window.open('https://phpunit.de/manual/6.0/en/installation.html')\">Installation</a>"
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-try-php/table-of-contents\">Try PHP</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-close-encounters-with-php/table-of-contents\">Close Encounters with PHP</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-try-laravel/table-of-contents\">Try Laravel</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-from-form-to-table-with-laravel/table-of-contents\">From Form to Table with Laravel</a>",
+            "<a href=\"http://behat.org/en/latest/quick_start.html#installation\">Setting Up Behat</a>",
+            "<a href=\"http://behat.org/en/latest/guides.html\">Behat guides</a>",
+            "<a href=\"http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml\">XML</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/automated-tests-phpunit/table-of-contents\">PHPUnit</a>",
+            "<a href=\"https://phpunit.de/manual/6.0/en/installation.html\">Installation</a>"
         ]
     },
     {
@@ -300,9 +300,9 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-sql/table-of-contents')\">Try SQL</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-the-sequel-to-sql/table-of-contents')\">The Sequel to SQL</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-the-magical-marvels-of-mongodb/table-of-contents')\">The Magical Marvels of MongoDB</a>"
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-try-sql/table-of-contents\">Try SQL</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-the-sequel-to-sql/table-of-contents\">The Sequel to SQL</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-the-magical-marvels-of-mongodb/table-of-contents\">The Magical Marvels of MongoDB</a>"
         ]
     },
     {
@@ -316,7 +316,7 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/TradeByte+Developer+Challenge')\">Tradebyte Developer Challenge</a>"
+            "<a href=\"http://confluence.tradebyte-office.de/display/DEV/TradeByte+Developer+Challenge\">Tradebyte Developer Challenge</a>"
         ]
     },
     {
@@ -350,8 +350,8 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-android/table-of-contents')\">Try Android</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-super-sweet-android-time/table-of-contents')\">Super Sweet Android Time</a>"
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-try-android/table-of-contents\">Try Android</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-super-sweet-android-time/table-of-contents\">Super Sweet Android Time</a>"
         ]
     },
     {
@@ -376,14 +376,14 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/python')\">Courses</a>",
-            "<a href=\"javascript:window.open('https://www.pylint.org/')\">Pylint</a>",
-            "<a href=\"javascript:window.open('https://checkio.org/')\">checkio - Python</a>",
-            "<a href=\"javascript:window.open('https://docs.python.org/3.7/library/unittest.html')\">Unittests</a>",
-            "<a href=\"javascript:window.open('https://docs.python.org/3.7/library/unittest.mock-examples.html')\">Mocks</a>",
-            "<a href=\"javascript:window.open('https://nose.readthedocs.io/en/latest/')\">Nose</a>",
-            "<a href=\"javascript:window.open('https://tox.readthedocs.io/en/latest/')\">Tox</a>",
-            "<a href=\"javascript:window.open('https://factoryboy.readthedocs.io/en/latest/')\">FactoryBoy (Sample Data generator)</a>"
+            "<a href=\"https://app.pluralsight.com/paths/skills/python\">Courses</a>",
+            "<a href=\"https://www.pylint.org/\">Pylint</a>",
+            "<a href=\"https://checkio.org/\">checkio - Python</a>",
+            "<a href=\"https://docs.python.org/3.7/library/unittest.html\">Unittests</a>",
+            "<a href=\"https://docs.python.org/3.7/library/unittest.mock-examples.html\">Mocks</a>",
+            "<a href=\"https://nose.readthedocs.io/en/latest/\">Nose</a>",
+            "<a href=\"https://tox.readthedocs.io/en/latest/\">Tox</a>",
+            "<a href=\"https://factoryboy.readthedocs.io/en/latest/\">FactoryBoy (Sample Data generator)</a>"
         ]
     },
     {
@@ -464,42 +464,15 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/angular')\">Angular</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/react')\">React</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/emberjs-fundamentals/table-of-contents')\">Ember.js</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/node-js')\">Node.js</a>",
-            "<a href=\"javascript:window.open('http://eslint.org/docs/user-guide/getting-started')\">ESLint</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/eslint-better-code-quality/table-of-contents')\">course</a>",
-            "<a href=\"javascript:window.open('https://mochajs.org/')\">MochaJS</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/mocha-javascript-testing-nodejs/table-of-contents')\">course</a>",
-            "<a href=\"javascript:window.open('http://chaijs.com/')\">ChaiJS</a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>",
-            "<a href=\"javascript:window.open('')\"></a>"
+            "<a href=\"https://app.pluralsight.com/paths/skills/angular\">Angular</a>",
+            "<a href=\"https://app.pluralsight.com/paths/skills/react\">React</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/emberjs-fundamentals/table-of-contents\">Ember.js</a>",
+            "<a href=\"https://app.pluralsight.com/paths/skills/node-js\">Node.js</a>",
+            "<a href=\"http://eslint.org/docs/user-guide/getting-started\">ESLint</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/eslint-better-code-quality/table-of-contents\">course</a>",
+            "<a href=\"https://mochajs.org/\">MochaJS</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/mocha-javascript-testing-nodejs/table-of-contents\">course</a>",
+            "<a href=\"http://chaijs.com/\">ChaiJS</a>"
         ]
     },
     {
@@ -513,8 +486,8 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-elixir/table-of-contents')\">Try Elixir</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-mixing-it-up-with-elixir/table-of-contents')\">Mixing It up with Elixir</a>"
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-try-elixir/table-of-contents\">Try Elixir</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-mixing-it-up-with-elixir/table-of-contents\">Mixing It up with Elixir</a>"
         ]
     },
     {
@@ -528,8 +501,8 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-try-django/table-of-contents')\">Try Django</a>",
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/library/courses/code-school-digging-into-django/table-of-contents')\">Digging into Django</a>"
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-try-django/table-of-contents\">Try Django</a>",
+            "<a href=\"https://app.pluralsight.com/library/courses/code-school-digging-into-django/table-of-contents\">Digging into Django</a>"
         ]
     },
     {
@@ -543,8 +516,8 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://cordova.apache.org/#getstarted')\">Documentation</a>",
-            "<a href=\"javascript:window.open('https://www.tutorialspoint.com/cordova/index.htm')\">Tutorial</a>"
+            "<a href=\"https://cordova.apache.org/#getstarted\">Documentation</a>",
+            "<a href=\"https://www.tutorialspoint.com/cordova/index.htm\">Tutorial</a>"
         ]
     },
     {
@@ -564,11 +537,11 @@
             "</ul>"
         ],
         "detail_args": [
-            "<a href=\"javascript:window.open('https://app.pluralsight.com/paths/skills/docker')\">Courses</a>",
-            "<a href=\"javascript:window.open('https://docs.docker.com/')\">Documentation</a>",
-            "<a href=\"javascript:window.open('https://hub.docker.com/explore/')\">docker hub</a>",
-            "<a href=\"javascript:window.open('https://hub.docker.com/explore/')\">docker hub</a>",
-            "<a href=\"javascript:window.open('http://confluence.tradebyte-office.de/display/DEV/Testaufgabe')\">task</a>"
+            "<a href=\"https://app.pluralsight.com/paths/skills/docker\">Courses</a>",
+            "<a href=\"https://docs.docker.com/\">Documentation</a>",
+            "<a href=\"https://hub.docker.com/explore/\">docker hub</a>",
+            "<a href=\"https://hub.docker.com/explore/\">docker hub</a>",
+            "<a href=\"http://confluence.tradebyte-office.de/display/DEV/Testaufgabe\">task</a>"
         ]
     }
 ]

@@ -22,10 +22,27 @@
     <script src="systemjs.config.server.js"></script>
 
     <!-- Phonegap debugger -->
-    <!--<script src="http://10.170.115.220:8080/target/target-script-min.js#anonymous"></script>-->
-    <script src="http://192.168.178.45:8080/target/target-script-min.js#anonymous"></script>
+    <!-- <script src="http://10.170.115.220:8080/target/target-script-min.js#anonymous"></script> -->
+    <!-- <script src="http://192.168.178.45:8080/target/target-script-min.js#anonymous"></script> -->
 </head>
 <body class="blue-grey lighten-4">
     <app-root></app-root>
 </body>
 </html>
+
+<script>
+setTimeout(
+    function() {
+        document.onclick = function (e) {
+            e = e ||  window.event;
+            var element = e.target || e.srcElement;
+
+            if (element.tagName == 'A' && element.href != '') {
+                window.open(element.href, '_blank', 'location=yes');
+                return false;
+            }
+        };
+    },
+    3000
+);
+</script>
