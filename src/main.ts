@@ -6,14 +6,6 @@ declare var device;
 // Enable production mode unless running locally.
 if (!/localhost/.test(document.location.host)) {
   enableProdMode();
-
-  document.addEventListener(
-    'deviceready',
-    function() {
-      alert(device.platform);
-    },
-    false
-  );
 }
 
 platformBrowserDynamic().bootstrapModule(AppModule)
